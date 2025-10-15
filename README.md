@@ -62,7 +62,7 @@ If you use this project in your research, please cite as follows:
 ## Contributing 🛠
 <!-- Be sure to adjust the repo name here for both the URL and GitHub link -->
 Contributions are welcome! If you have a feature request, bug report, or proposal for code refactoring, please feel free to open an issue on GitHub. We appreciate your help in improving this project.\
-![https://github.com/StephanAkkerman/template/graphs/contributors](https://contributors-img.firebaseapp.com/image?repo=StephanAkkerman/template)
+![https://github.com/StephanAkkerman/template/graphs/contributors](https://contributors-img.firebaseapp.com/image?repo=JelleKoolstra/template)
 
 ## License 📜
 
